@@ -1,2 +1,2 @@
-# K-Means-Clustering
-Segregated groups of customer based on similarities using K-Means
+To identify different segments in the existing customer based on their spending patterns as well as past interaction with the bank.
+
